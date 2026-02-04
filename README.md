@@ -1,5 +1,5 @@
 # Project-Comodities
-Cross-Asset Analysis Potential, Anomaly Detection and Forecasting on commodities (Natural Gas ; Gold ; Brent Crude Oil ; Aluminium ; Wheat) between 2000 and 2023
+Cross-Asset Analysis Potential, Anomaly Detection and Forecasting on comodities (Natural Gas ; Gold ; Brent Crude Oil ; Aluminium ; Wheat) between 2000 and 2023
 
 For the purposes of our research, we have chosen a dataset of futures prices for various commodities. We selected five items from the available set, chosen for their economic relevance and sectoral diversity. The data covers the period from January 1, 2000 to August 4, 2023. This 23-year period is able to capture macroeconomic cycles, geopolitical and energy disruptions, as well as structural changes such as the ecological transition. These options guarantee a broad enough historical scope to examine underlying trends, sector fluctuations and possible correlations between these commodities. 
 
